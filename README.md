@@ -43,7 +43,6 @@ This is a POC(Proof of concept) kind-of project. The data used here comes up wit
 
 ## DEPLOYMENT 🚀
 
-#### Deployment is done using [deploy](https://github.com/Gladiator07/Harvestify/tree/deploy) branch
 #### This website is deployed at [Heroku](https://www.heroku.com/)
 #### You can access it [here](https://harvestify.herokuapp.com/)
 #### Note: The website may take a minute to load sometimes, as the server may be in hibernate state
@@ -112,7 +111,7 @@ Note that, for now it only supports following crops
 
 
 ## Contribute 👨‍💻
-Please read [CONTRIBUTING.md](https://github.com/Gladiator07/Harvestify/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/arqamshaikh987/Harvestify/blob/main/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Usage ⚙️
 You can use this project for further developing it and adding your work in it. If you use this project, kindly mention the original source of the project and mention the link of this repo in your report.
